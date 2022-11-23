@@ -5,7 +5,7 @@ from time import *
 start_time = time()
 
 def func(a):
-    return sum(range(1000000000))
+    return None
 
 
 if __name__ == "__main__":
